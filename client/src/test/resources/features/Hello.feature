@@ -22,8 +22,8 @@ Feature: Securing the connection between you and the world
 #      | Ktor Android HttpClient         |
       | Ktor Apache HttpClient          |
 #      | Ktor CIO HttpClient             |
-      | Ktor OkHttp                     |
 #      | Ktor Jetty HttpClient           |
+      | Ktor OkHttp                     |
       | OkHttp                          |
       | Old JDK HttpClient              |
       | Old Jersey HttpClient           |

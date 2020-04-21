@@ -11,6 +11,7 @@ import org.springframework.stereotype.Service
 
 @Service
 class KtorJettyHttpClient(@Autowired(required = false) sslFactory: SSLFactory?): KtorHttpClientService(HttpClient(Jetty) {
+    //todo can't send request to http because of missing support for http v1.x
     if (sslFactory != null) {
         engine {
             sslContextFactory = JettySslContextUtils.forClient(sslFactory)
