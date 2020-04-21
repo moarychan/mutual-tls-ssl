@@ -198,6 +198,11 @@
                 <artifactId>ktor-client-cio</artifactId>
                 <version>${version.ktor}</version>
             </dependency>
+            <dependency>
+                <groupId>io.ktor</groupId>
+                <artifactId>ktor-client-android</artifactId>
+                <version>${version.ktor}</version>
+            </dependency>
 
             <!--     Apache Utils       -->
             <dependency>
