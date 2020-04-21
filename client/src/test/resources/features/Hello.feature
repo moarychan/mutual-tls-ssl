@@ -23,6 +23,7 @@ Feature: Securing the connection between you and the world
       | Ktor Apache HttpClient          |
 #      | Ktor CIO HttpClient             |
       | Ktor OkHttp                     |
+#      | Ktor Jetty HttpClient           |
       | OkHttp                          |
       | Old JDK HttpClient              |
       | Old Jersey HttpClient           |
