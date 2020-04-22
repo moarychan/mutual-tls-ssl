@@ -21,6 +21,7 @@ public enum ClientType {
     SCALAJ_HTTP_CLIENT("scalaj httpclient"),
     REACTOR_NETTY("reactor netty"),
     JETTY_REACTIVE_HTTP_CLIENT("jetty reactive httpclient"),
+    FUEL("fuel"),
     KTOR_APACHE_HTTP_CLIENT("ktor apache httpclient"),
     KTOR_OK_HTTP("ktor okhttp"),
     KTOR_CIO_HTTP_CLIENT("ktor cio httpclient"),

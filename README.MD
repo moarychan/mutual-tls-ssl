@@ -51,6 +51,7 @@ Below is a list of already tested clients, see in the [ClientConfig class](clien
 * [Dispatch Reboot Http Client](https://github.com/dispatch/reboot)
 * [Async Http Client](https://github.com/AsyncHttpClient/async-http-client)
 * [ScalaJ Http Client](https://github.com/scalaj/scalaj-http)
+* [Fuel](https://github.com/kittinunf/fuel)
 * [Ktor Http Client with Apache](https://ktor.io/clients/http-client/engines.html#apache)
 * [Ktor Http Client with OkHttp](https://ktor.io/clients/http-client/engines.html#okhttp)
 * [Ktor Http Client with Jetty](https://ktor.io/clients/http-client/engines.html#jetty)
